@@ -1,6 +1,6 @@
 ### Hi there! I'm Milena. It's nice to have you here. 👋
 
-### You contact me here:
+### You can contact me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/milena-maia)
 
 <!-- ![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=mill3na&show_icons=true&theme=vue-dark) -->
@@ -47,3 +47,4 @@ CreateML
 - iOS Development from IRede
 - iOS Development from Apple Developer Academy
 - Tensorflow and Machine Learning from Udemy
+- Backend with Vapor from Udemy
